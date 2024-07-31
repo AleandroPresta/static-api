@@ -1,0 +1,152 @@
+[
+    {
+        "room_type": "29055",
+        "price": 60,
+        "rating": 87,
+        "id": "1"
+    },
+    {
+        "room_type": "1508",
+        "price": 51,
+        "rating": 81,
+        "id": "2"
+    },
+    {
+        "room_type": "4821",
+        "price": 86,
+        "rating": 8,
+        "id": "3"
+    },
+    {
+        "room_type": "2589",
+        "price": 56,
+        "rating": 18,
+        "id": "4"
+    },
+    {
+        "room_type": "52443",
+        "price": 49,
+        "rating": 47,
+        "id": "5"
+    },
+    {
+        "room_type": "569",
+        "price": 80,
+        "rating": 86,
+        "id": "6"
+    },
+    {
+        "room_type": "Suite",
+        "price": 100,
+        "rating": 5,
+        "id": "7"
+    },
+    {
+        "room_type": "56170",
+        "price": 82,
+        "rating": 95,
+        "id": "8"
+    },
+    {
+        "room_type": "092",
+        "price": 94,
+        "rating": 85,
+        "id": "9"
+    },
+    {
+        "room_type": "93786",
+        "price": 22,
+        "rating": 35,
+        "id": "10"
+    },
+    {
+        "room_type": "506",
+        "price": 42,
+        "rating": 70,
+        "id": "11"
+    },
+    {
+        "room_type": "335",
+        "price": 33,
+        "rating": 19,
+        "id": "12"
+    },
+    {
+        "room_type": "2896",
+        "price": 77,
+        "rating": 76,
+        "id": "13"
+    },
+    {
+        "room_type": "599",
+        "price": 44,
+        "rating": 62,
+        "id": "14"
+    },
+    {
+        "room_type": "520",
+        "price": 2,
+        "rating": 84,
+        "id": "15"
+    },
+    {
+        "room_type": "337",
+        "price": 79,
+        "rating": 66,
+        "id": "16"
+    },
+    {
+        "room_type": "749",
+        "price": 39,
+        "rating": 18,
+        "id": "17"
+    },
+    {
+        "room_type": "8994",
+        "price": 70,
+        "rating": 17,
+        "id": "18"
+    },
+    {
+        "room_type": "0645",
+        "price": 6,
+        "rating": 53,
+        "id": "19"
+    },
+    {
+        "room_type": "8725",
+        "price": 39,
+        "rating": 37,
+        "id": "20"
+    },
+    {
+        "room_type": "4633",
+        "price": 23,
+        "rating": 32,
+        "id": "21"
+    },
+    {
+        "room_type": "9604",
+        "price": 46,
+        "rating": 79,
+        "id": "22"
+    },
+    {
+        "room_type": "537",
+        "price": 13,
+        "rating": 22,
+        "id": "23"
+    },
+    {
+        "room_type": "340",
+        "price": 44,
+        "rating": 98,
+        "id": "24"
+    },
+    {
+        "room_type": "0913",
+        "price": 50,
+        "rating": 4,
+        "id": "25"
+    }
+]
