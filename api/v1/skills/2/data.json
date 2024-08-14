@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Angular",
+        "level": "Intermediate"
+    },
+    {
+        "name": "React",
+        "level": "Intermediate"
+    },
+    {
+        "name": "Java Spring",
+        "level": "Intermediate"
+    },
+    {
+        "name": "Node.js",
+        "level": "Intermediate"
+    },
+    {
+        "name": "Express.js",
+        "level": "Intermediate"
+    },
+    {
+        "name": "MongoDB",
+        "level": "Intermediate"
+    },
+    {
+        "name": "SQL",
+        "level": "Intermediate"
+    }
+]

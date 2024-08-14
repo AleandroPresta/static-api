@@ -1,0 +1,30 @@
+[
+    {
+        "name": "JavaScript",
+        "level": "Intermediate"
+    },
+    {
+        "name": "TypeScript",
+        "level": "Intermediate"
+    },
+    {
+        "name": "Python",
+        "level": "Intermediate"
+    },
+    {
+        "name": "Java",
+        "level": "Intermediate"
+    },
+    {
+        "name": "C#",
+        "level": "Intermediate"
+    },
+    {
+        "name": "C++",
+        "level": "Intermediate"
+    },
+    {
+        "name": "C",
+        "level": "Intermediate"
+    }
+]
