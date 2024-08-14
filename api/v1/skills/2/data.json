@@ -1,30 +1,18 @@
 [
     {
-        "name": "Angular",
+        "name": "NumPy / Pandas",
         "experience": "Intermediate"
     },
     {
-        "name": "React",
+        "name": "PyTorch",
         "experience": "Intermediate"
     },
     {
-        "name": "Java Spring",
+        "name": "Tensorflow",
         "experience": "Intermediate"
     },
     {
-        "name": "Node.js",
-        "experience": "Intermediate"
-    },
-    {
-        "name": "Express.js",
-        "experience": "Intermediate"
-    },
-    {
-        "name": "MongoDB",
-        "experience": "Intermediate"
-    },
-    {
-        "name": "SQL",
+        "name": "Scikit-learn",
         "experience": "Intermediate"
     }
 ]
