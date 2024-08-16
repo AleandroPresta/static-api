@@ -1,5 +1,14 @@
 [
   {
+    "projectTitle": "Personal Portfolio",
+    "projectDescription": "A personal portfolio with various sections to showcase my education, skills and projects",
+    "projectImageUrl": "../assets/projects/portfolio.png",
+    "projectUrl": "https://github.com/AleandroPresta/personal-portfolio-angular",
+    "projectTags" : [
+      "Angular", "Bootstrap", "HTML", "CSS"
+    ]
+  },
+  {
     "projectTitle": "Articles Web Application",
     "projectDescription": "A web application that allows users to post, modify, delete and comment articles",
     "projectImageUrl": "../assets/projects/blog.webp",
