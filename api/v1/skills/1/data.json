@@ -12,7 +12,11 @@
         "experience": "Intermediate"
     },
     {
-        "name": "JavaScript / TypeScript",
-        "experience": "Intermediate"
+        "name": "JavaScript",
+        "experience": "Basic"
+    },
+    {
+        "name": "TypeScript",
+        "experience": "Basic"
     }
 ]
