@@ -3,12 +3,18 @@
     "projectTitle": "Articles Web Application",
     "projectDescription": "A web application that allows users to post, modify, delete and comment articles",
     "projectImageUrl": "../assets/projects/blog.webp",
-    "projectUrl": "https://github.com/AleandroPresta/articles-webapp"
+    "projectUrl": "https://github.com/AleandroPresta/articles-webapp",
+    "projectTags" : [
+      "Django", "Bootstrap", "HTML", "CSS"
+    ]
   },
   {
     "projectTitle": "Weather Web Application",
     "projectDescription": "An web application that allows users to see the daily and weekly weather in any city",
     "projectImageUrl": "../assets/projects/weather.png",
-    "projectUrl": "https://github.com/AleandroPresta/weather-webapp"
+    "projectUrl": "https://github.com/AleandroPresta/weather-webapp",
+    "projectTags" : [
+      "Django", "Bootstrap", "HTML", "CSS", "API"
+    ]
   }
 ]
