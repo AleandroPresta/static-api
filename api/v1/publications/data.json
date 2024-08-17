@@ -1,0 +1,50 @@
+[
+    {
+        "title": "The future of AI in the automotive industry",
+        "tags": ["AI", "Automotive"],
+        "image": "assets/images/ai-automotive.jpg",
+        "date": "January 2021",
+        "authors": [
+            {
+                "authorName": "John Doe",
+                "authorProfilePicture": "assets/images/john-doe.jpg"
+            },
+            {
+                "authorName": "Jane Doe",
+                "authorProfilePicture": "assets/images/jane-doe.jpg"
+            }
+        ]
+    },
+    {
+        "title": "The impact of blockchain technology on the financial sector",
+        "tags": ["Blockchain", "Finance"],
+        "image": "assets/images/blockchain-finance.jpg",
+        "date": "February 2021",
+        "authors": [
+            {
+                "authorName": "John Doe",
+                "authorProfilePicture": "assets/images/john-doe.jpg"
+            },
+            {
+                "authorName": "Jane Doe",
+                "authorProfilePicture": "assets/images/jane-doe.jpg"
+            }
+        ]
+    },
+    {
+        "title": "The role of IoT in the healthcare industry",
+        "tags": ["IoT", "Healthcare"],
+        "image": "assets/images/iot-healthcare.jpg",
+        "date": "March 2021",
+        "authors": [
+            {
+                "authorName": "John Doe",
+                "authorProfilePicture": "assets/images/john-doe.jpg"
+            },
+            {
+                "authorName": "Jane Doe",
+                "authorProfilePicture": "assets/images/jane-doe.jpg"
+            }
+        ]
+    }
+]
