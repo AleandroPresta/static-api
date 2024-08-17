@@ -1,29 +1,23 @@
 [
-  {
-    "projectTitle": "Personal Portfolio",
-    "projectDescription": "A personal portfolio with various sections to showcase my education, skills and projects.",
-    "projectImageUrl": "../assets/projects/portfolio.png",
-    "projectUrl": "https://github.com/AleandroPresta/personal-portfolio-angular",
-    "projectTags" : [
-      "Angular", "Bootstrap", "HTML", "CSS"
-    ]
-  },
-  {
-    "projectTitle": "Articles Web Application",
-    "projectDescription": "A web application that allows users to post, modify, delete and comment article.s",
-    "projectImageUrl": "../assets/projects/blog.webp",
-    "projectUrl": "https://github.com/AleandroPresta/articles-webapp",
-    "projectTags" : [
-      "Django", "Bootstrap", "HTML", "CSS"
-    ]
-  },
-  {
-    "projectTitle": "Weather Web Application",
-    "projectDescription": "An web application that allows users to see the daily and weekly weather in any city.",
-    "projectImageUrl": "../assets/projects/weather.png",
-    "projectUrl": "https://github.com/AleandroPresta/weather-webapp",
-    "projectTags" : [
-      "Django", "Bootstrap", "HTML", "CSS", "API"
-    ]
-  }
+    {
+        "projectTitle": "Personal Portfolio",
+        "projectDescription": "A personal portfolio with various sections to showcase my education, skills and projects.",
+        "projectImageUrl": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/projects/images/portfolio.png",
+        "projectUrl": "https://github.com/AleandroPresta/personal-portfolio-angular",
+        "projectTags": ["Angular", "Bootstrap", "HTML", "CSS"]
+    },
+    {
+        "projectTitle": "Articles Web Application",
+        "projectDescription": "A web application that allows users to post, modify, delete and comment article.s",
+        "projectImageUrl": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/projects/images/blog.webp",
+        "projectUrl": "https://github.com/AleandroPresta/articles-webapp",
+        "projectTags": ["Django", "Bootstrap", "HTML", "CSS"]
+    },
+    {
+        "projectTitle": "Weather Web Application",
+        "projectDescription": "An web application that allows users to see the daily and weekly weather in any city.",
+        "projectImageUrl": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/projects/images/weather.png",
+        "projectUrl": "https://github.com/AleandroPresta/weather-webapp",
+        "projectTags": ["Django", "Bootstrap", "HTML", "CSS", "API"]
+    }
 ]
