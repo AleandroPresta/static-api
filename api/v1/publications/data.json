@@ -12,7 +12,19 @@
         "publicationDate": "March 2024",
         "publicationAuthors": [
             {
-                "authorName": "authorName",
+                "authorName": "A. Presta",
+                "authorProfilePicture": "https://placehold.co/25x25"
+            },
+            {
+                "authorName": "F. Marozzo",
+                "authorProfilePicture": "https://placehold.co/25x25"
+            },
+            {
+                "authorName": "L. Belcastro",
+                "authorProfilePicture": "https://placehold.co/25x25"
+            },
+            {
+                "authorName": "D. Talia",
                 "authorProfilePicture": "https://placehold.co/25x25"
             }
         ]
