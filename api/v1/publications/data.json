@@ -1,14 +1,14 @@
 [
     {
-      publicationTitle: "Publication Title",
-      publicationTags: ["tag1", "tag2"],
-      publicationPreviewImage: "previewImage",
-      publicationDate: "date",
-      publicationAuthors: [
-        {
-          authorName: "authorName",
-          authorProfilePicture: "profilePicture"
-        }
-      ]
+        "publicationTitle": "Publication Title",
+        "publicationTags": ["tag1", "tag2"],
+        "publicationPreviewImage": "previewImage",
+        "publicationDate": "date",
+        "publicationAuthors": [
+            {
+                "authorName": "authorName",
+                "authorProfilePicture": "profilePicture"
+            }
+        ]
     }
 ]
