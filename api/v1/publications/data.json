@@ -8,7 +8,7 @@
             "Cloud computing",
             "Apache Spark"
         ],
-        "publicationPreviewImage": "../assets/papers/paper1.png",
+        "publicationPreviewImage": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/publications/images/paper1.png",
         "publicationDate": "March 2024",
         "publicationAuthors": [
             {
