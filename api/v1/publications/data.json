@@ -1,21 +1,15 @@
 [
     {
         "publicationTitle": "A Spark-based Task Allocation Solution for Machine Learning in the Edge-Cloud Continuum",
-        "publicationTags": ["tag1", "tag2"],
+        "publicationTags": [
+            "Machine learning",
+            "Internet of Things",
+            "Edge computing",
+            "Cloud computing",
+            "Apache Spark"
+        ],
         "publicationPreviewImage": "previewImage",
-        "publicationDate": "date",
-        "publicationAuthors": [
-            {
-                "authorName": "authorName",
-                "authorProfilePicture": "https://placehold.co/25x25"
-            }
-        ]
-    },
-    {
-        "publicationTitle": "Publication Title",
-        "publicationTags": ["tag1", "tag2"],
-        "publicationPreviewImage": "previewImage",
-        "publicationDate": "date",
+        "publicationDate": "March 2024",
         "publicationAuthors": [
             {
                 "authorName": "authorName",
