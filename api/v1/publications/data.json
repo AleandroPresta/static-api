@@ -7,7 +7,7 @@
         "publicationAuthors": [
             {
                 "authorName": "authorName",
-                "authorProfilePicture": "profilePicture"
+                "authorProfilePicture": "https://placehold.co/25x25"
             }
         ]
     },
@@ -19,7 +19,7 @@
         "publicationAuthors": [
             {
                 "authorName": "authorName",
-                "authorProfilePicture": "profilePicture"
+                "authorProfilePicture": "https://placehold.co/25x25"
             }
         ]
     }
