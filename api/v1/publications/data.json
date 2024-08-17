@@ -4,7 +4,7 @@
         "tags": ["AI", "Automotive"],
         "image": "assets/images/ai-automotive.jpg",
         "date": "January 2021",
-        "authors": [
+        "publicationAuthors": [
             {
                 "authorName": "John Doe",
                 "authorProfilePicture": "assets/images/john-doe.jpg"
