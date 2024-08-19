@@ -8,7 +8,7 @@
     },
     {
         "projectTitle": "Articles Web Application",
-        "projectDescription": "A web application that allows users to post, modify, delete and comment article.s",
+        "projectDescription": "A web application that allows users to post, modify, delete and comment articles.",
         "projectImageUrl": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/projects/images/blog.webp",
         "projectUrl": "https://github.com/AleandroPresta/articles-webapp",
         "projectTags": ["Django", "Bootstrap", "HTML", "CSS"]
