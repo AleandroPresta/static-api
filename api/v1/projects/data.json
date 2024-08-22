@@ -1,5 +1,12 @@
 [
     {
+        "projectTitle": "Solrynthia",
+        "projectDescription": "A beautiful website for a fantasy world.",
+        "projectImageUrl": "https://aleandropresta.github.io/solrynthia/media/landing-ZBZ22MAL.webp",
+        "projectUrl": "https://github.com/AleandroPresta/portfolio-deploy",
+        "projectTags": ["Angular", "Bootstrap", "HTML", "CSS"]
+    },
+    {
         "projectTitle": "Personal Portfolio",
         "projectDescription": "A personal portfolio with various sections to showcase my education, skills and projects.",
         "projectImageUrl": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/projects/images/portfolio.png",
