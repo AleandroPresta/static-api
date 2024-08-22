@@ -3,7 +3,7 @@
         "projectTitle": "Personal Portfolio",
         "projectDescription": "A personal portfolio with various sections to showcase my education, skills and projects.",
         "projectImageUrl": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/projects/images/portfolio.png",
-        "projectUrl": "https://github.com/AleandroPresta/personal-portfolio-angular",
+        "projectUrl": "https://github.com/AleandroPresta/portfolio-deploy",
         "projectTags": ["Angular", "Bootstrap", "HTML", "CSS"]
     },
     {
