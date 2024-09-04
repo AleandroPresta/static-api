@@ -4,27 +4,42 @@
         "projectDescription": "A beautiful website for a fantasy world.",
         "projectImageUrl": "https://aleandropresta.github.io/solrynthia/media/landing-ZBZ22MAL.webp",
         "projectUrl": "https://github.com/AleandroPresta/solrynthia",
-        "projectTags": ["Angular", "Bootstrap", "HTML", "CSS"]
+        "projectTags": ["Front-end", "Angular", "Bootstrap", "HTML", "CSS"]
     },
     {
         "projectTitle": "Personal Portfolio",
         "projectDescription": "A personal portfolio with various sections to showcase my education, skills and projects.",
         "projectImageUrl": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/projects/images/portfolio.png",
         "projectUrl": "https://github.com/AleandroPresta/portfolio-deploy",
-        "projectTags": ["Angular", "Bootstrap", "HTML", "CSS"]
+        "projectTags": ["Front-end", "Angular", "Bootstrap", "HTML", "CSS"]
     },
     {
         "projectTitle": "Articles Web Application",
         "projectDescription": "A web application that allows users to post, modify, delete and comment articles.",
         "projectImageUrl": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/projects/images/blog.webp",
         "projectUrl": "https://github.com/AleandroPresta/articles-webapp",
-        "projectTags": ["Django", "Bootstrap", "HTML", "CSS"]
+        "projectTags": [
+            "Front-end",
+            "Back-end",
+            "Django",
+            "Bootstrap",
+            "HTML",
+            "CSS"
+        ]
     },
     {
         "projectTitle": "Weather Web Application",
         "projectDescription": "An web application that allows users to see the daily and weekly weather in any city.",
         "projectImageUrl": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/projects/images/weather.png",
         "projectUrl": "https://github.com/AleandroPresta/weather-webapp",
-        "projectTags": ["Django", "Bootstrap", "HTML", "CSS", "API"]
+        "projectTags": [
+            "Front-end",
+            "Back-end",
+            "Django",
+            "Bootstrap",
+            "HTML",
+            "CSS",
+            "API"
+        ]
     }
 ]
