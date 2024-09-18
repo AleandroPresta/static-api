@@ -1,5 +1,39 @@
 [
     {
+        "publicationTitle": "Developing Platform-Agnostic IIoT Applications in Edge-Cloud Environments",
+        "publicationTags": [
+            "Edge Cloud Continuum",
+            "Service Composition",
+            "Vendor-Agnostic Platforms",
+            "Industrial Internet of Things",
+            "Platform Interoperability"
+        ],
+        "publicationPreviewImage": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/publications/images/ism2024.png",
+        "publicationDate": "October 2024",
+        "publicationAuthors": [
+            {
+                "authorName": "A. Presta",
+                "authorProfilePicture": "https://raw.githubusercontent.com/AleandroPresta/static-api/master/api/v1/publications/images/profile-pic.png"
+            },
+            {
+                "authorName": "F. Marozzo",
+                "authorProfilePicture": "https://st3.depositphotos.com/6672868/13801/v/380/depositphotos_138013506-stock-illustration-user-profile-group.jpg"
+            },
+            {
+                "authorName": "L. Belcastro",
+                "authorProfilePicture": "https://st3.depositphotos.com/6672868/13801/v/380/depositphotos_138013506-stock-illustration-user-profile-group.jpg"
+            },
+            {
+                "authorName": "R. Varchera",
+                "authorProfilePicture": "https://st3.depositphotos.com/6672868/13801/v/380/depositphotos_138013506-stock-illustration-user-profile-group.jpg"
+            },
+            {
+                "authorName": "A. Vinci",
+                "authorProfilePicture": "https://st3.depositphotos.com/6672868/13801/v/380/depositphotos_138013506-stock-illustration-user-profile-group.jpg"
+            }
+        ]
+    },
+    {
         "publicationTitle": "A Spark-based Task Allocation Solution for Machine Learning in the Edge-Cloud Continuum",
         "publicationTags": [
             "Machine learning",
