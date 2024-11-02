@@ -3,14 +3,14 @@
         "projectTitle": "Hotel Management System (Front-end)",
         "projectDescription": "A frontend for a Hotel Management System that allows users to create, modify and book rooms.",
         "projectImageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*LeYBjLHr6kmYIoSx-aHdDA.png",
-        "projectUrl": "https://github.com/AleandroPresta/hms-frontend",
+        "projectUrl": "https://github.com/AleandroPresta/hms-frontend-v2",
         "projectTags": ["Front-end", "Angular", "Bootstrap", "HTML", "CSS"]
     },
     {
         "projectTitle": "Hotel Management System (Back-end)",
         "projectDescription": "A backend for a Hotel Management System that allows the user to search, create and modify data on a MySQL database",
         "projectImageUrl": "https://blogcdn.gmass.co/blog/wp-content/uploads/2020/02/Featured-image-WP-forms-131kb.png",
-        "projectUrl": "https://github.com/AleandroPresta/hms-backend",
+        "projectUrl": "https://github.com/AleandroPresta/hms-backend-v2",
         "projectTags": ["Back-end", "Java", "Spring Boot", "SQL", "MySQL"]
     },
     {
